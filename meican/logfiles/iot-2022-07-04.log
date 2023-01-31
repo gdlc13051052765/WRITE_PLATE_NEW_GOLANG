@@ -1,0 +1,29 @@
+2022/07/04 11:24:17 pMyThingName = Thing_cardWriterV2_1d556f0a-828c-4762-91fb-dc47119380ea
+2022/07/04 11:24:18 Shadow Connect ok
+2022/07/04 11:24:19 Shadow delta ok
+2022/07/04 11:24:20 payload = JOB_GET_PENDING_TOPIC callback
+2022/07/04 11:24:20 JOB_NOTIFY_NEXT_TOPIC / JOB_DESCRIBE_TOPIC($next) callback
+2022/07/04 11:24:20 payload = {"timestamp":1656905060}ogressJobs":[],"queuedJobs":[]}
+2022/07/04 11:24:22 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:23 shadow pReceivedJsonDocument 数据 = {"state":{"desired":{"sn":{"sn":"DM2A205139017","code":"476017"},"restaurantID":8757,"menuUpdateTime":1656658326000},"reported":{"menuUpdateTime":1656573304000,"romVersion":"MCT_DM2_0.0.4","sn":{"sn":"DM2A205139017","code":"476017"},"restaurantID":8757},"delta":{"menuUpdateTime":1656658326000}},"metadata":{"desired":{"sn":{"sn":{"timestamp":1655447709},"code":{"timestamp":1655447709}},"restaurantID":{"timestamp":1656038544},"menuUpdateTime":{"timestamp":1656658336}},"reported":{"menuUpdateTime":{"timestamp":1656644848},"romVersion":{"timestamp":1656644848},"sn":{"sn":{"timestamp":1655447710},"code":{"timestamp":1655447710}},"restaurantID":{"timestamp":1656038562}}},"version":33,"timestamp":1656905063,"clientToken":"1d556f0a-828c-4762-91fb-dc47119380ea-0"}
+2022/07/04 11:24:26 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:27 MenuUpdateTime Update Accepted !!
+2022/07/04 11:24:27 Delta - menuUpdateTime state changed to = 1656658326000
+2022/07/04 11:24:27 Delta - menuUpdateTime state changed to = 1656658326000
+2022/07/04 11:24:27 romVersion Update Accepted !!
+2022/07/04 11:24:27 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:28 MenuUpdateTime Update Accepted !!
+2022/07/04 11:24:28 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:30 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:31 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:32 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:33 MenuUpdateTime Update Accepted !!
+2022/07/04 11:24:33 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:34 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:36 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:37 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:38 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:39 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:40 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:42 mqttClient.clientStatus.clientState = 3
+2022/07/04 11:24:43 mqttClient.clientStatus.clientState = 3

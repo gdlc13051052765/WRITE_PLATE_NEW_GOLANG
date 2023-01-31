@@ -1,0 +1,65 @@
+2022/07/26 13:55:10 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 15:15:15 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 15:39:20 writeplatemenu write ok = 0, dish_id = 262
+2022/07/26 15:39:29 writeplatemenu write ok = 0, dish_id = 267
+2022/07/26 15:54:23 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 15:56:25 writeplatemenu write ok = 0, dish_id = 265
+2022/07/26 15:57:10 writeplatemenu write ok = 0, dish_id = 269
+2022/07/26 15:57:16 writeplatemenu write ok = 0, dish_id = 265
+2022/07/26 15:59:49 writeplatemenu write ok = 0, dish_id = 269
+2022/07/26 16:05:38 writeplatemenu write ok = 0, dish_id = 257
+2022/07/26 16:29:59 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 16:30:04 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 16:30:10 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 16:30:22 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 16:32:43 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 16:32:54 writeplatemenu write ok = 0, dish_id = 268
+2022/07/26 16:44:47 writeplatemenu write ok = 0, dish_id = 265
+2022/07/26 17:04:23 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 17:04:33 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 17:04:43 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 17:04:54 writeplatemenu write ok = 0, dish_id = 265
+2022/07/26 17:05:03 writeplatemenu write ok = 0, dish_id = 265
+2022/07/26 17:05:05 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:07 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:09 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:11 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:13 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:17 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:19 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:21 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:23 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:25 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:38 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:57 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:05:58 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:01 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:03 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:04 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:08 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:10 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:12 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:13 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:15 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:24 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:27 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:32 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:36 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:38 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:42 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:53 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:56 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:06:59 read writeplatemenu ok err = 0, dishMsg.dishid = 265
+2022/07/26 17:07:11 writeplatemenu write ok = 0, dish_id = 271
+2022/07/26 17:07:11 read writeplatemenu ok err = 0, dishMsg.dishid = 271
+2022/07/26 17:07:13 read writeplatemenu ok err = 0, dishMsg.dishid = 271
+2022/07/26 17:07:15 read writeplatemenu ok err = 0, dishMsg.dishid = 271
+2022/07/26 17:07:17 read writeplatemenu ok err = 0, dishMsg.dishid = 271
+2022/07/26 17:07:41 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 17:07:42 read writeplatemenu ok err = 0, dishMsg.dishid = 261
+2022/07/26 17:07:43 read writeplatemenu ok err = 0, dishMsg.dishid = 261
+2022/07/26 17:07:52 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 17:08:03 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 17:08:15 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 17:08:54 writeplatemenu write ok = 0, dish_id = 261
+2022/07/26 17:08:59 writeplatemenu write ok = 0, dish_id = 261

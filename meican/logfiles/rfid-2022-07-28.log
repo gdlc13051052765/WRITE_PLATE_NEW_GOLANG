@@ -1,0 +1,8 @@
+2022/07/28 17:27:14 rfid total tag number = 1
+2022/07/28 17:27:14 tag uid = F1508D96500104E0
+2022/07/28 17:27:14 read block2 data = D7004240
+2022/07/28 17:27:14 write block ok , write data = d7  0 42  0
+2022/07/28 17:27:16 rfid total tag number = 1
+2022/07/28 17:27:16 tag uid = F1508D96500104E0
+2022/07/28 17:27:16 read block2 data = D7004200
+2022/07/28 17:27:16 write block ok , write data = d7  0 42  0

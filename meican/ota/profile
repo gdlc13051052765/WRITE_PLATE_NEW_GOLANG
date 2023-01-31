@@ -1,0 +1,48 @@
+export PATH="/bin:/sbin:/usr/bin:/usr/sbin"
+
+if [ "$PS1" ]; then
+	if [ "`id -u`" -eq 0 ]; then
+		export PS1='# '
+	else
+		export PS1='$ '
+	fi
+fi
+
+export PAGER='/bin/more'
+export EDITOR='/bin/vi'
+
+
+
+if [ "$PS1" ]; then
+# works for bash and ash (no other shells known to be in use here)
+   PS1='[\u@\h]:\W\$ '
+fi
+
+if [ -d /etc/profile.d ]; then
+  for i in /etc/profile.d/*.sh ; do
+    if [ -f $i -a -r $i ]; then
+      . $i
+    fi
+  done
+  unset i
+fi
+
+
+export QT_QPA_PLATFORM=linuxfb:tty=/dev/fb0
+export QT_QWS_FONTDIR=/opt/Fonts
+#export TSLIB_TSDEVICE=/dev/input/event1
+
+export QTDIR=/usr/qt_5.12.6
+export PATH=$PATH:$QTDIR
+export LD_LIBRARY_PATH=$LD_LIBRARY:$QTDIR/lib
+export QT_QPA_PLATFORM_PLUGIN_PATH=$QTDIR/plugins
+export QT_QPAFONTDIR=/opt/Fonts
+export QML2_IMPORT_PATH=$QTDIR/qml
+export XDG_RUNTIME_DIR=$QTDIR/lib
+export RUNLEVEL=3
+
+
+export GOROOT_BOOTSTRAP=/home/go/go_bootstrap
+export GOROOT=/home/go
+export GOBIN=$GOROOT/bin
+export GOPATH=/home/go
