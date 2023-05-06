@@ -1,0 +1,60 @@
+2022/07/27 14:57:46 rfid total tag number = 1
+2022/07/27 14:57:46 tag uid = 6C1A8D96500104E0
+2022/07/27 14:57:46 read block2 data = D7004140
+2022/07/27 14:57:46 write block ok , write data = d7  0 40 c0
+2022/07/27 14:57:48 rfid total tag number = 1
+2022/07/27 14:57:48 tag uid = 6C1A8D96500104E0
+2022/07/27 14:57:48 read block2 data = D70040C0
+2022/07/27 14:57:48 write block ok , write data = d7  0 40 c0
+2022/07/27 14:57:51 rfid total tag number = 1
+2022/07/27 14:57:51 tag uid = 6C1A8D96500104E0
+2022/07/27 14:57:51 read block2 data = D70040C0
+2022/07/27 14:57:51 write block ok , write data = d7  0 40 c0
+2022/07/27 14:57:58 rfid total tag number = 1
+2022/07/27 14:57:58 tag uid = 4A820D9E500104E0
+2022/07/27 14:57:58 read block2 data = 505A3233
+2022/07/27 14:57:58 非美餐餐盘
+2022/07/27 14:58:06 rfid total tag number = 1
+2022/07/27 14:58:06 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:06 read block2 data = 505A3233
+2022/07/27 14:58:06 非美餐餐盘
+2022/07/27 14:58:09 rfid total tag number = 1
+2022/07/27 14:58:09 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:09 read block2 data = 505A3233
+2022/07/27 14:58:09 非美餐餐盘
+2022/07/27 14:58:11 rfid total tag number = 1
+2022/07/27 14:58:11 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:11 read block2 data = 505A3233
+2022/07/27 14:58:11 非美餐餐盘
+2022/07/27 14:58:13 rfid total tag number = 1
+2022/07/27 14:58:14 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:14 read block2 data = 505A3233
+2022/07/27 14:58:14 非美餐餐盘
+2022/07/27 14:58:17 rfid total tag number = 1
+2022/07/27 14:58:17 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:17 read block2 data = 505A3233
+2022/07/27 14:58:17 非美餐餐盘
+2022/07/27 14:58:20 rfid total tag number = 1
+2022/07/27 14:58:20 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:20 read block2 data = 505A3233
+2022/07/27 14:58:20 非美餐餐盘
+2022/07/27 14:58:26 rfid total tag number = 1
+2022/07/27 14:58:26 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:26 read block2 data = 505A3233
+2022/07/27 14:58:26 非美餐餐盘
+2022/07/27 14:58:28 rfid total tag number = 1
+2022/07/27 14:58:28 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:28 read block2 data = 505A3233
+2022/07/27 14:58:28 非美餐餐盘
+2022/07/27 14:58:30 rfid total tag number = 1
+2022/07/27 14:58:31 tag uid = 4A820D9E500104E0
+2022/07/27 14:58:31 read block2 data = 505A3233
+2022/07/27 14:58:31 非美餐餐盘
+2022/07/27 18:18:22 rfid total tag number = 1
+2022/07/27 18:18:22 tag uid = 4A820D9E500104E0
+2022/07/27 18:18:22 read block2 data = 505A3233
+2022/07/27 18:18:22 非美餐餐盘
+2022/07/27 18:18:23 rfid total tag number = 1
+2022/07/27 18:18:23 tag uid = 4A820D9E500104E0
+2022/07/27 18:18:23 read block2 data = 505A3233
+2022/07/27 18:18:23 非美餐餐盘

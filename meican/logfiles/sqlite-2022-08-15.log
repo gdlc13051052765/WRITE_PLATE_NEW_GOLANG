@@ -1,0 +1,4 @@
+2022/08/15 10:11:50 read writeplatemenu ok err = 0, dishMsg.dishid = 268
+2022/08/15 10:11:52 read writeplatemenu ok err = 0, dishMsg.dishid = 268
+2022/08/15 10:33:02 writeplatemenu write ok = 0, dish_id = 264
+2022/08/15 10:33:04 read writeplatemenu ok err = 0, dishMsg.dishid = 264

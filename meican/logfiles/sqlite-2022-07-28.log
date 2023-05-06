@@ -1,0 +1,7 @@
+2022/07/28 11:51:01 writeplatemenu write ok = 0, dish_id = 258
+2022/07/28 11:52:44 writeplatemenu write ok = 0, dish_id = 258
+2022/07/28 11:55:21 writeplatemenu write ok = 0, dish_id = 260
+2022/07/28 14:58:43 writeplatemenu write ok = 0, dish_id = 264
+2022/07/28 17:27:11 writeplatemenu write ok = 0, dish_id = 264
+2022/07/28 17:27:14 read writeplatemenu ok err = 0, dishMsg.dishid = 264
+2022/07/28 17:27:16 read writeplatemenu ok err = 0, dishMsg.dishid = 264
